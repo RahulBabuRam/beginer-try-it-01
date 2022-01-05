@@ -1,0 +1,91 @@
+ 
+    body{
+        margin:0;
+        padding: 0;
+        font-family: 'Poppins', sans-serif;
+        
+    }
+h1{
+    font-size: 40px;
+ 
+   
+}
+.flexi-area{
+    display: flex;
+    
+    
+}
+section img{
+    width: 60%;
+    padding-left: 2%;
+}
+
+.color-red{
+color: crimson;
+}
+.half-width{
+    width: 50%;
+    padding-top: 65px;
+    padding-left: 8%;
+    padding-top: 7%;
+    padding-right: 4%;
+}
+.btn{
+    font-weight:600px;
+    background-color: crimson;
+    color:#ffffff;
+    border-radius: 5px;
+    padding: 10px 40px;
+    text-decoration: none;
+    margin-top: 500px;
+    
+}
+.top-banner{
+    background-image: url(personal-website/header-bg.png);
+    background-repeat: no-repeat;
+    background-size: 60%;
+  
+}
+.biography{
+    background-image: url(personal-website/biography-bg.png);
+    background-repeat: no-repeat;
+    float: center;
+    
+}
+#wow{
+    width: 350px;
+    margin-left: 250px;
+    
+}
+.row-it{
+    box-sizing: border-box;
+    margin-left: 350px;
+   background-image: url(personal-website/latest-work-bg.png);
+}
+
+.colum{
+    float: left;
+    width: 20%;
+    text-align: center;
+    position: relative;
+  padding: 5px;
+    
+}
+.color{
+    color: hsl(0, 2%, 39%);
+    font-size: 8px;
+}
+.footer{
+    margin-top: 300px;
+    text-align: center;
+    background-image: image(personal-website/footer-bg.png);
+    background-repeat: no-repeat;
+ 
+}
+.footer-bg{
+   
+}
+
+
+
+
